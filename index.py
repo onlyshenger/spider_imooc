@@ -27,6 +27,5 @@ if __name__=="__main__":
         spider = SpiderMan()
         url = COURSEURL+str(ID)
         spider.cmdshow_gbk(url)
-        # print("**********" + url + "**********")
         sleep(600)
     # spider.crawl("http://www.imooc.com/learn/317")
