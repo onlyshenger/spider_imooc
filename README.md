@@ -36,7 +36,7 @@
 运行环境:
 python 2.7.X
 需要安装的支持模块:
-BeautifulSoup (pip install或者下载源代码包setup.py),下载链接:https://pypi.python.org/pypi/beautifulsoup4/4.3.2
+BeautifulSoup4 (pip install或者下载源代码包setup.py),下载链接:https://pypi.python.org/pypi/beautifulsoup4/4.3.2
 
 运行:在windows上直接双击start.bat,linux上没试
 
